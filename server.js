@@ -30,6 +30,7 @@ const MODEL_MAPPING = {
   'claude-3-opus': 'stepfun-ai/step-3.5-flash',
   'claude-3-sonnet': 'z-ai/glm5',
   'claude-4': 'z-ai/glm-5.1',
+  'claude-4-sonnet': 'qwen/qwen3.5-122b-a10b',
   'gemini-flash': 'deepseek-ai/deepseek-v4-flash',
   'gemini-pro': 'deepseek-ai/deepseek-v4-pro' 
 };
